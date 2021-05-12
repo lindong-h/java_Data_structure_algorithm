@@ -26,7 +26,7 @@ public class NodeList {
     }
     @Test
     public void test(){
-        System.out.println("hot-fix");
+        System.out.println("git");
     }
 }
 
