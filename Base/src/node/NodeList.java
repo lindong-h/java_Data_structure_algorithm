@@ -24,7 +24,10 @@ public class NodeList {
 
 
     }
-
+    @Test
+    public void test(){
+        System.out.println("git");
+    }
 }
 
 class Node {
